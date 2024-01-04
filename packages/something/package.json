@@ -1,5 +1,5 @@
 {
-  "name": "pkg-lock-churn",
+  "name": "something",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/traverse": "^7.23.7"
-  },
-  "workspaces": ["packages/*"]
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "7.23.6"
+  }
 }
